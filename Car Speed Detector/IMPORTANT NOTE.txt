@@ -1,0 +1,3 @@
+The increment and decrement function is implemented through change in background
+color of ON and OFF button in Android App. Whose button's background color is
+changed to grey, it means that button is activiated.
